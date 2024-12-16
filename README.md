@@ -6,11 +6,11 @@ My experience as a research assistant in Computational Physics has equipped me w
 
 My background in Physics has imparted crucial skills to succeed as a Data Scientist:
 
- • I am an experienced cross-functional collaborator with data management expertise and a strong background in mathematics and statistical analysis to lead and manage projects of numerical modelling in Computational Physics.
+ * I am an experienced cross-functional collaborator with data management expertise and a strong background in mathematics and statistical analysis to lead and manage projects of numerical modelling in Computational Physics.
 
- • I have excellent communication skills used to simplify and convey complex concepts to broad audiences gained by over 6 years of experience delivering oral presentations and group seminars.
+ * I have excellent communication skills used to simplify and convey complex concepts to broad audiences gained by over 6 years of experience delivering oral presentations and group seminars.
 
- • I have managed projects and priorities related to the modelling of atoms and molecules in external fields to achieve a PhD in Computational Physics.
+ * I have managed projects and priorities related to the modelling of atoms and molecules in external fields to achieve a PhD in Computational Physics.
 
 Looking forward to collaborating with like-minded people to tackle challenging problems and create thriving solutions. If you're interested in exploring opportunities, sharing insights, or simply having a chat about data science, machine learning, or anything related, please feel free to connect with me at:
 
